@@ -1,0 +1,588 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"h",
+				"hideMenu"
+			],
+			[
+				"show",
+				"showMenu"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"m",
+				"menu"
+			],
+			[
+				"s",
+				"show"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"me",
+				"menuButton"
+			],
+			[
+				"Cl",
+				"classList"
+			],
+			[
+				"a",
+				"addEventListener"
+			],
+			[
+				"tr",
+				"translate3d()"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"trs",
+				"transform"
+			],
+			[
+				"car",
+				"cart-item-remove"
+			],
+			[
+				"al",
+				"align-self"
+			],
+			[
+				"g",
+				"grid-column"
+			],
+			[
+				"gr",
+				"grid-column"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"f",
+				"fa"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"grid-t",
+				"grid-template-columns"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"flex",
+				"inline-flex"
+			],
+			[
+				"borderc",
+				"border-color"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bo",
+				"border-style"
+			],
+			[
+				"in",
+				"input-item"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"obj",
+				"object-fit"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"fe",
+				"flex"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"fle",
+				"flex"
+			],
+			[
+				"w",
+				"wrap"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"textd",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"gric",
+				"grid-template-columns"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"ove",
+				"overflow"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"Bor",
+				"border-top"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"con",
+				"Content"
+			],
+			[
+				"lo",
+				"logo"
+			],
+			[
+				"gri",
+				"grid-title"
+			],
+			[
+				"i",
+				"img-responsive"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"container",
+				"container-fluid"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"na",
+				"nav-item"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"cart",
+				"cart-logo"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgroung",
+				"background-image"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"j",
+				"justify-content-center"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"he",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 214.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"sublime sett",
+				"Preferences: SublimeLinter Settings"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/dev/DjangoMysqlInstructions.txt",
+		"/home/dev/temp.html",
+		"/home/dev/Join operations",
+		"/home/dev/projects/02-rahul-responsive-web/checkout.html",
+		"/home/dev/projects/02-rahul-responsive-web/cart.html",
+		"/home/dev/projects/02-rahul-responsive-web/detailspage.html",
+		"/home/dev/projects/02-rahul-responsive-web/script.js",
+		"/home/dev/projects/02-rahul-responsive-web/products.html",
+		"/home/dev/projects/02-rahul-responsive-web/style.css",
+		"/home/dev/projects/02-rahul-responsive-web/index.html",
+		"/home/dev/projects/temp.py",
+		"/home/dev/projects/02-rahul-responsive-web/temp.html",
+		"/home/dev/projects/02-rahul-responsive-web/style1.css",
+		"/home/dev/projects/02-rahul-responsive-web/cart1.html",
+		"/home/dev/projects/02-rahul-responsive-web/style2.css",
+		"/home/dev/projects/02-rahul-responsive-web/detailspage1.html",
+		"/home/dev/projects/02-rahul-responsive-web/products1.html",
+		"/home/dev/projects/02-rahul-responsive-web/index1.html",
+		"/home/dev/projects/02-rahul-shopping-page/style.css",
+		"/home/dev/projects/02-rahul-shopping-page/detailspage.html",
+		"/home/dev/projects/02-rahul-shopping-page/products.html",
+		"/home/dev/projects/02-rahul-shopping-page/index.html",
+		"/home/dev/projects/01-rahul-static-web/index.html",
+		"/home/dev/projects/01-rahul-static-web/style.css",
+		"/home/dev/projects/Prac Project/imagenews.html",
+		"/home/dev/projects/Prac Project/imagenews.css",
+		"/home/dev/projects/js-boiler-plate/style.css",
+		"/home/dev/projects/js-boiler-plate/imagenews.html",
+		"/home/dev/projects/js-boiler-plate/imagenews.css",
+		"/home/dev/projects/js-boiler-plate/.eslintrc.json",
+		"/home/dev/projects/js-boiler-plate/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"=\"#\"></",
+			"{% url 'sentimentanalysis:index' %}",
+			"flex\n",
+			";\n",
+			"body",
+			"></",
+			"selection",
+			";\n",
+			"end",
+			"<div class=\"\"><img src=\"Images/6.jpg\" class=\"img img-responsive\"></div>",
+			"<div class=\"\"><img src=\"Images/5.jpg\" class=\"img img-responsive\"></div>",
+			"<div class=\"\"><img src=\"Images/4.jpg\" class=\"img img-responsive\"></div>",
+			"<div class=\"\"><img src=\"Images/3.jpg\" class=\"img img-responsive\"></div>",
+			"<div class=\"\"><img src=\"Images/2.jpg\" class=\"img img-responsive\"></div>",
+			"image-responsive",
+			"item",
+			"<div class=\"item\"></div>",
+			"style=\"background-color: black; height: 200px;\"",
+			"style=\"background-color: blue; height: 200px;\"",
+			"background-color: black",
+			"li",
+			"h4",
+			"_",
+			"4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#",
+			"<img src=\"Images/1.jpg\" class=\"img img-responsive\">",
+			"img-responsive",
+			"",
+			"<div class=\"item\"><img src=\"Images/1.jpg\" class=\"image-responsive\"></div>",
+			"class=\"item\"",
+			"background-color: black; height: 200px;",
+			"span",
+			"-",
+			"3"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 41.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "1.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
